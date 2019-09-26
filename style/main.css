@@ -1,0 +1,24 @@
+h1, h2, h3, h4, p{
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    font-family: 'Roboto Slab', serif;    
+}
+
+.page-main{
+    background-image: url(../image/background.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+   &__logo{
+
+   } 
+}
+
+.header__logo{
+    
+}
